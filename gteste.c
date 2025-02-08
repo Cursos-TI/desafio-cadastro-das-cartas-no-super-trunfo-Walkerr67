@@ -62,7 +62,7 @@ int main() {
     printf(" - Código da Cidade: %s\n - Nome da cidade: %s\n - Quantidade da População: %d\n - area: %d\n - Pontos Turísticos: %d\n - PIB : %d\n ", cidade, nome, populacao, area, pontosturisticos,PIB);
     printf(" - Código da Cidade 2: %s\n - Nome da cidade 2: %s\n - Quantidade da População 2: %d\n - area 2: %d\n - Pontos Turísticos 2: %d\n - PIB 2 : %d\n ", cidade2, nome2, populacao2, area2, pontosturisticos2,PIB2);
 
-    printf("O RESULTADO É:\n");
+
     printf("Pontos Turisticos x Pontos Turisticos : %d\n", pontosturisticos < pontosturisticos2);
     printf("Quantidade da População x Quantidade da População : %d\n", populacao < populacao2);
     printf("Area x Area : %d\n",area < area2);
